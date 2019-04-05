@@ -1,4 +1,6 @@
-# Agile Lite: Agile without all the burnout
+# 애자일 라이트(Agile Lite): 번아웃 없는 애자일
+
+> 번역 진행중
 
 "Agile software development" is a great idea that's been overcomplicated by the publishing and consulting industries. Agile Lite is an attempt to simplify the situation. You do not need a book or a workshop to explain Agile Lite. You just need a text file with several paragraphs. This is that text file.
 

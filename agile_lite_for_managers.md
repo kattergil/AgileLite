@@ -1,4 +1,4 @@
-# Agile Lite for managers
+# 매니저를 위한 애자일 라이트(Agile Lite)
 
 Has working with software developers been a challenge at your company? Have you seen projects that consistently miss deadlines? Have you worked with developers that start out great and then slowly decline and then disappear? You may simply be dealing with a talented developer that experienced burnout on your project. 
 
