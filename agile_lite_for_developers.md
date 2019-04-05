@@ -1,7 +1,3 @@
-**Translations**
-
-- <a href="https://github.com/kattergil/AgileLite/tree/korean">Korean</a>
-
 # Agile Lite for developers
 
 If you've been working in the software industry for more than a few years, you've quite possibly experienced burnout. There are many reasons for burnout, but it can most simply be described as the result of working too much, under too much stress, for too long. 
